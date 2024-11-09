@@ -56,7 +56,9 @@ Models: All .js files in the models directory will be updated to use ES module i
 
 Migrations: Any .js files in the migrations folder will be renamed to .cjs to avoid conflicts in projects using ES modules.
 
-4.After the conversion: Your Sequelize models and migration files should now be compatible with an ES module project structure.
+4.After the conversion:
+
+Your Sequelize models and migration files should now be compatible with an ES module project structure.
 
 ### Contributing
 

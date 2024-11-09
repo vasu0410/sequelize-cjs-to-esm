@@ -1,6 +1,6 @@
 {
   "name": "sequelize-cjs-to-esm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to convert migration files and models between CommonJS and ES module formats.",
   "main": "index.js",
   "scripts": {
