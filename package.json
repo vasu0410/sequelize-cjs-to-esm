@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-cjs-to-esm",
+  "version": "1.0.0",
+  "description": "A package to convert migration files and models between CommonJS and ES module formats.",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "keywords": [
+    "commonjs",
+    "esm",
+    "migration",
+    "sequelize"
+  ],
+  "author": "Viper",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {}
+}
