@@ -33,7 +33,8 @@ npm install --save-dev convert-sequelize-cjs-to-esm
 
 Once the package is installed, run the conversion command to convert both the Sequelize model files and migration files to be compatible with ES Modules.
 
-Step-by-Step Usage:
+## Step-by-Step Usage:
+
 1.Add Sequelize CLI files to your project if you haven’t already done so (for example, by running sequelize-cli init).
 
 2.Run the conversion command:
