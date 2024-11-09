@@ -61,3 +61,7 @@ Migrations: Any .js files in the migrations folder will be renamed to .cjs to av
 ### Contributing
 
 If you'd like to contribute to this package, feel free to fork the repository, make changes, and submit a pull request.
+
+## Repository Link
+
+You can find the source code for this project on GitHub: [GitHub Repository](https://github.com/vasu0410/sequelize-cjs-to-esm).
